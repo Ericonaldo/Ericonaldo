@@ -8,7 +8,7 @@
 <details>
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yangxue0827&show_icons=true&theme=gotham" alt="Ericonaldo" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ericonaldo&show_icons=true&theme=gotham" alt="Ericonaldo" />
 
 </details>
 <!--
